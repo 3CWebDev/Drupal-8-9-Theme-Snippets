@@ -1,7 +1,7 @@
 # Drupal-8-9-Theme-Snippets
 
 <h2>Responsive Off Canvas Menu</h2>
-<h3>Make entire sub-menu clickable and rotate arraow</h3>
+<h3>Make entire sub-menu clickable and rotate arrow</h3>
 
 ```
 
